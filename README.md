@@ -21,8 +21,8 @@ Problématique, choix des données et analyse libre !
 
 Pour ce hackathon, nous avons choisi de traiter la problématique suivante :
 
-Un jeune label de musique souhaite promouvoir ses artistes à travers un festival et fait appel à nous pour déterminer qui sont les stars les plus populaires et quels artistes sont des stars en devenir. 
-Une fois cette analyse faite, nous l'aiderons à planifier une programmation pertinente pour son festival.
+- Un jeune label de musique souhaite promouvoir ses artistes à travers un festival et fait appel à nous pour déterminer qui sont les stars les plus populaires et quels artistes sont des stars en devenir. 
+- Une fois cette analyse faite, nous l'aiderons à planifier une programmation pertinente pour son festival.
 
 Pour cela, nous avons utilisé des données publiques de la plateforme numéro 1 de streaming musical : Spotify.
 
