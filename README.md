@@ -6,7 +6,7 @@ Hackathon réalisé en 1 jour et demi lors de ma formation à la Wild Code Schoo
 
 ## Sujet :
 
-Produire une analyse basée sur des données publiques qui aidera les acteurs du marché de la musique à faire des recherches et à prendre des décisions éclairées.
+Produire une analyse basée sur des données publiques, qui aidera les acteurs du marché de la musique 🔎👨‍💻
 
 Problématique, choix des données et analyse libre !
 
