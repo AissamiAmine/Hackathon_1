@@ -1,19 +1,28 @@
 
 # Hackathon n°1
 
-hackathon réalisé en 1 jour et demi lors de ma formation à la Wild Code School.
+Hackathon réalisé en 1 jour et demi lors de ma formation à la Wild Code School.
 
 
-## Problématique :
+## Sujet :
 
-Produire une analyse basée sur des données, qui aidera les acteurs du marché de la musique 🔎👨‍💻
+Produire une analyse basée sur des données publiques qui aidera les acteurs du marché de la musique à faire des recherches et à prendre des décisions éclairées.
 
-Problémtique et analyse libre !
+Problématique, choix des données et analyse libre !
 
-**Délai** : 28h
+**Délai** : 28 heures
 
-**Programmation** :   Python (plotly, Seaborn) avec JupyterLab, Streamlit, github 
+**Équipe** : 6 personnes
 
+**Stack technique** : Python (Pandas, Plotly, Seaborn), Streamlit, GitHub
+
+
+## Problématique et Données :
+
+Pour ce hackathon, nous avons choisi de traiter la problématique suivante :
+
+Un jeune label de musique souhaite promouvoir ses artistes à travers un festival et fait appel à nous pour déterminer qui sont les stars les plus populaires et quels artistes sont des stars en devenir. 
+Une fois cette analyse faite, nous l'aiderons à planifier une programmation pertinente pour son festival.
 
 ## Présentation finale :
 
