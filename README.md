@@ -18,8 +18,3 @@ Choix du dataset
 
 Analyse de la base de données 📊
 
-Mise en place de l’application de présentation Streamlit 👨‍💻 : Page 1 / Page 2 / Page 3 / Page 4 / Page 5
-
-Publication de l'interface de présentation Streamlit :
-
-🌸🌸 LIEN DE L'INTERFACE 🌸🌸
