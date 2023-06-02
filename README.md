@@ -1,32 +1,25 @@
+🎼 Recommandation de programmation de festival :
+hackathon réalisé en 1 jour et demi lors de ma formation à la Wild Code School.
 
-# Hackathon n°1
+🎯 Objectif du projet :
+Produire une analyse basée sur des données, qui aidera les acteurs du marché de la musique 🔎👨‍💻 Problémtique et analyse libre !
 
-Hackathon réalisé en 1 jour et demi lors de ma formation à la Wild Code School.
+⌛ Délai : 28h
+⚙️ Outils principaux :
+Python (plotly, Seaborn) avec JupyterLab, Streamlit, github
 
+🎬 Source des données :
+ 
 
-## Sujet :
+Kaggle : https://www.kaggle.com/datasets/dhruvildave/spotify-charts
 
-Produire une analyse basée sur des données publiques, qui aidera les acteurs du marché de la musique 🔎👨‍💻
+📎 ✅ Méthodologie technique :
+Choix du dataset
 
-Problématique, choix des données et analyse libre !
+Analyse de la base de données 📊
 
-**Délai** : 28 heures
+Mise en place de l’application de présentation Streamlit 👨‍💻 : Page 1 / Page 2 / Page 3 / Page 4 / Page 5
 
-**Équipe** : 6 personnes
+Publication de l'interface de présentation Streamlit :
 
-**Stack technique** : Python (Pandas, Plotly, Seaborn), Streamlit, GitHub
-
-
-## Problématique et Données :
-
-Pour ce hackathon, nous avons choisi de traiter la problématique suivante :
-
-- Un jeune label de musique souhaite promouvoir ses artistes à travers un festival et fait appel à nous pour déterminer qui sont les stars les plus populaires et quels artistes sont des stars en devenir. 
-- Une fois cette analyse faite, nous l'aiderons à planifier une programmation pertinente pour son festival.
-
-Pour cela, nous avons utilisé des données publiques de la plateforme numéro 1 de streaming musical : Spotify.
-
-## Présentation finale :
-
-
-[LIEN STREAMLIT DE LA PRESENTATION](https://camillemagnette-festival-streamlitpresentation-du-projet-pniqto.streamlit.app/)
+🌸🌸 LIEN DE L'INTERFACE 🌸🌸
